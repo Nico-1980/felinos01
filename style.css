@@ -4,7 +4,6 @@ body {
     font-size: x-large;
     font-style: initial;
 } 
-.uno1 {
-    flex-flow: nowrap;
-text-align-last: center;
-font-style: italic;
+#uno1 {
+    text-shadow: 5px 10px 2px #939668f, -3px 6px 5px #58d1e3;
+}
